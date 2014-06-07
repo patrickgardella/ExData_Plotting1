@@ -1,3 +1,11 @@
+## Changes
+
+Created code and example files as described below in the Introduction.
+
+Contributors
+------------
+[Patrick Gardella](http://www.asburyseminary.edu/person/patrick-s-gardela/) - Chief Programmer and Data Analyst
+
 ## Introduction
 
 This assignment uses data from
