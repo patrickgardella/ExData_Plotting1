@@ -1,5 +1,4 @@
 .DS_Store
 .Rapp.history
-data/.DS_Store
-data/exdata-data-household_power_consumption.zip
-data/exdata-data-household_power_consumption.txt
+exdata-data-household_power_consumption.zip
+household_power_consumption.txt
